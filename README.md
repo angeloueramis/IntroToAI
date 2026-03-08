@@ -24,7 +24,7 @@ Find the **best hiking route from the starting point to the summit** while minim
 
 ### Screenshot of the output
 
-![A\* Hiking Route Output](images/aStar.png)
+![A\* Hiking Route Output](screenshots%20of%20outputs/aStar.png)
 
 ---
 
@@ -63,7 +63,7 @@ Student 5: AI, Python
 ```
 ### Screenshot of the output
 
-![A-Priori Output](images/aPriori.png)
+![A-Priori Output](screenshots%20of%20outputs/aPriori.png)
 
 ---
 
@@ -79,4 +79,4 @@ Generate the **best 3-exercise workout routine** that maximizes fitness effectiv
 
 ### Screenshot of the output
 
-![Genetic Algorithm Output](images/evolution.png)
+![Genetic Algorithm Output](screenshots%20of%20outputs/evolution.png)
